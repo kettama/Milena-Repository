@@ -1,0 +1,50 @@
+body {
+  background-image: url("src/clouds1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 400px;
+  display: block;
+  margin: 10px auto 100px auto;
+  font-family: "Abril Fatface";
+}
+
+h1 {
+  color: #000000;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28px;
+  margin: 0;
+}
+h2 {
+  font-size: 15px;
+}
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+li {
+  color: #020000;
+  font-size: 16px;
+  font-weight: 100px;
+  height: 19px;
+  line-height: 1;
+  list-style: none;
+}
+.weather-app {
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  border: transparent;
+}
+
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.container {
+  background-image: linear-gradient(#def4ff, white);
+  border-radius: 20px;
+}
